@@ -1,6 +1,6 @@
 #header1-1 H1 {
   font-size: 30px;
-  color: #28324e;
+  color: #000000;
 }
 #header1-1 B {
   font-size: 21px;
@@ -9,11 +9,24 @@
   font-size: 17px;
   color: #252525;
 }
+#header3-1v H3 {
+  text-align: center;
+  color: #2c82c9;
+}
+#header3-1v P {
+  text-align: center;
+  font-size: 17px;
+  color: #252525;
+}
+#header3-1v B {
+  font-size: 17px;
+}
 #features1-m .mbr-section-title .mbr-header__text {
   color: #2c82c9;
 }
 #features1-m P {
   text-align: center;
+  color: #000000;
 }
 #features1-n .mbr-section-title .mbr-header__text {
   color: #ffffff;
@@ -51,6 +64,13 @@
   text-align: center;
   color: #ffffff;
 }
+#msg-box1-1x .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-1x .mbr-article {
+  color: #ffffff;
+  text-align: center;
+}
 #contacts1-r STRONG {
   color: #2c82c9;
 }
@@ -73,7 +93,7 @@
   background: #ffffff;
 }
 #ext_menu-s .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #27aae0;
 }
 #ext_menu-s .mbr-brand__name a {
   font-size: 30px;
@@ -86,10 +106,10 @@
   color: #2c82c9;
 }
 #contacts1-u P {
-  color: #777777;
+  color: #000000;
 }
 #contacts1-u UL {
-  color: #777777;
+  color: #000000;
 }
 #content5-z .mbr-header .mbr-header__text {
   text-align: center;
@@ -136,7 +156,7 @@
   background: #ffffff;
 }
 #ext_menu-w .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #27aae0;
 }
 #ext_menu-w .mbr-brand__name a {
   font-size: 30px;
@@ -149,10 +169,10 @@
   color: #2c82c9;
 }
 #contacts1-y P {
-  color: #777777;
+  color: #000000;
 }
 #contacts1-y UL {
-  color: #777777;
+  color: #000000;
 }
 #ext_menu-11 .mbr-brand__name {
   font-size: 16px;
@@ -164,7 +184,7 @@
   background: #ffffff;
 }
 #ext_menu-11 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #27aae0;
 }
 #ext_menu-11 .mbr-brand__name a {
   font-size: 30px;
@@ -197,10 +217,10 @@
   color: #2c82c9;
 }
 #contacts1-13 P {
-  color: #777777;
+  color: #000000;
 }
 #contacts1-13 UL {
-  color: #777777;
+  color: #000000;
 }
 #ext_menu-14 .mbr-brand__name {
   font-size: 16px;
@@ -212,7 +232,7 @@
   background: #ffffff;
 }
 #ext_menu-14 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #27aae0;
 }
 #ext_menu-14 .mbr-brand__name a {
   font-size: 30px;
@@ -243,10 +263,10 @@
   color: #2c82c9;
 }
 #contacts1-16 P {
-  color: #777777;
+  color: #000000;
 }
 #contacts1-16 UL {
-  color: #777777;
+  color: #000000;
 }
 #ext_menu-18 .mbr-brand__name {
   font-size: 16px;
@@ -258,7 +278,7 @@
   background: #ffffff;
 }
 #ext_menu-18 .mbr-navbar__hamburger {
-  color: #ffffff;
+  color: #27aae0;
 }
 #ext_menu-18 .mbr-brand__name a {
   font-size: 30px;

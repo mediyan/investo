@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "Investo",
-    "currentPage": "cara-kerja.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 74,
+    "uniqCompNum": 70,
     "versionPublish": "3.12.1",
     "publishFtpPath": "public_html",
     "publishType": "local",
@@ -40,7 +40,7 @@
           "_styles": {
             "H1": {
               "font-size": "30px",
-              "color": "#000000"
+              "color": "#28324e"
             },
             "B": {
               "font-size": "21px"
@@ -62,9 +62,9 @@
             },
             "bgVideoRadio": false,
             "contentAlign": "right",
-            "overlay": true,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#553982",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
             "showTitle": true,
             "showText": true,
             "showButtons": true,
@@ -79,6 +79,12 @@
             "Theme"
           ],
           "_name": "header3",
+          "_anchor": "header3-1v",
+          "title": "MANFAAT",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "<b>Halal dan Bebas Riba </b><br>Uang yang dinvestasikan ke Investo akan dikelola sesuai dengan syariah Islam. Tidak hanya berlandaskan agama, namun juga berlandaskan hukum negara. <br><br><b>Pengelolaan Dana Transparan</b><br>Uang dari investor dikelola dengan menggunakan escrow account yang memudahkan pencairan dana ke UKM dan menjamin keamanan dana Investor.<br><br><b>Keberlanjutan Hubungan Investor dan UKM</b><br>Investo memberikan layanan visitasi dan pendampingan kepada UKM. Investor memonitoring perkembangan UKM dan berinteraksi secara langsung.<br>",
           "_styles": {
             "H3": {
               "text-align": "center",
@@ -92,13 +98,7 @@
             "B": {
               "font-size": "17px"
             }
-          },
-          "_anchor": "header3-1v",
-          "title": "MANFAAT",
-          "_params": {
-            "showMeta": true
-          },
-          "meta": "<b>Halal dan Bebas Riba </b><br>Uang yang dinvestasikan ke Investo akan dikelola sesuai dengan syariah Islam. Tidak hanya berlandaskan agama, namun juga berlandaskan hukum negara. <br><br><b>Pengelolaan Dana Transparan</b><br>Uang dari investor dikelola dengan menggunakan escrow account yang memudahkan pencairan dana ke UKM dan menjamin keamanan dana Investor.<br><br><b>Keberlanjutan Hubungan Investor dan UKM</b><br>TIM Investo memberikan layanan visitasi dan pendampingan kepada UKM. Investor memonitoring perkembangan UKM dan berinteraksi secara langsung.<br>"
+          }
         },
         {
           "_tags": [
@@ -110,8 +110,7 @@
               "color": "#2c82c9"
             },
             "P": {
-              "text-align": "center",
-              "color": "#000000"
+              "text-align": "center"
             }
           },
           "_anchor": "features1-m",
@@ -168,7 +167,7 @@
           "media2": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/kampanye-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/campaign-1-600x600.png",
               "class": "mbr-figure__img",
               "width": 600,
               "link": "",
@@ -449,35 +448,6 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-21",
-          "_params": {
-            "outside": false,
-            "bgColor": "#252525",
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cara%20kerja-1400x594.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "cara-kerja.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free."
-        },
-        {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_tags": [
             "Theme"
@@ -501,12 +471,11 @@
             "paddingBottom": 3,
             "slides": [
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/full01-2000x1250.jpg",
                 "contentAlign": "center",
                 "overlay": true,
                 "overlayOpacity": "0.1",
-                "overlayColor": "#553982",
                 "showTitle": true,
                 "title": "<br><br><br>APA KATA MEREKA?",
                 "showText": true,
@@ -515,7 +484,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> "
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/full01-2000x1250.jpg",
                 "contentAlign": "center",
                 "overlay": true,
@@ -646,12 +615,12 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": false,
+            "showTitle": false,
+            "showText": true,
             "showButtons": true
           },
-          "title": "IKUT JADI PENGGERAK!",
-          "text": "",
+          "title": "PRE MADE BLOCKS",
+          "text": "Mari menjadi salah satu pelopor penggerak ekonomi islam di Indonesia!",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"daftar.html\" data-toolbar=\"-mbrBtnMove\">DAFTAR SEKARANG</a>"
         },
         {
@@ -702,7 +671,7 @@
           },
           "text1": "<font color=\"#2c82c9\"><b>NAVIGASI</b></font><br><a href=\"cara-kerja.html\">Cara Kerja</a><br><a href=\"risiko.html\">Risiko Investasi</a><br><a href=\"bantuan.html\">Bantuan</a><br><a href=\"about.html\">Tentang Kami</a><br><a href=\"#\">Karir</a>",
           "text2": "<strong>HUBUNGI KAMI</strong><br>Jl. Borobudur Gg.6A No.5,<br>Kel. Blimbing,&nbsp;Kec.Blimbing<br>Kota Malang<br>support@investo.id<br>+62 812 366 781 56",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>SUPPORTED BY</strong></p><ul class=\"mbr-contacts__list\"><li>Gerakan 1000 Startup Digital</li><li>BEKUP by BEKRAF</li></ul><p><br></p><p><b>IKUTI KAMI</b> : <a href=\"https://web.facebook.com/investo.syariah/\" target=\"_blank\">investo.syariah</a></p>"
+          "text3": "<p class=\"mbr-contacts__text\"><strong>SUPPORTED BY</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"1000startupdigital.id\" target=\"_blank\">Gerakan 1000 Startup Digital</a></li><li><a href=\"bekup-portal.com\" target=\"_blank\">BEKUP by BEKRAF</a></li></ul>"
         }
       ]
     },
@@ -858,10 +827,10 @@
               "color": "#2c82c9"
             },
             "P": {
-              "color": "#000000"
+              "color": "#777777"
             },
             "UL": {
-              "color": "#000000"
+              "color": "#777777"
             }
           },
           "_anchor": "contacts1-u",
@@ -896,7 +865,7 @@
           },
           "text1": "<font color=\"#2c82c9\"><b>NAVIGASI</b></font><br><a href=\"cara-kerja.html\">Cara Kerja</a><br><a href=\"risiko.html\">Risiko Investasi</a><br><a href=\"bantuan.html\">Bantuan</a><br><a href=\"about.html\">Tentang Kami</a><br><a href=\"#\">Karir</a>",
           "text2": "<strong>HUBUNGI KAMI</strong><br>Jl. Borobudur Gg.6A No.5,<br>Kel. Blimbing,&nbsp;Kec.Blimbing<br>Kota Malang<br>support@investo.id<br>+62 812 366 781 56",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>SUPPORTED BY</strong></p><ul class=\"mbr-contacts__list\"><li>Gerakan 1000 Startup Digital</li><li>BEKUP by BEKRAF</li></ul><p><br></p><p><b>IKUTI KAMI</b> : <a href=\"https://web.facebook.com/investo.syariah/\" target=\"_blank\">investo.syariah</a></p>"
+          "text3": "<p class=\"mbr-contacts__text\"><strong>SUPPORTED BY</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"1000startupdigital.id\" target=\"_blank\">Gerakan 1000 Startup Digital</a></li><li><a href=\"bekup-portal.com\" target=\"_blank\">BEKUP by BEKRAF</a></li></ul>"
         }
       ]
     },
@@ -981,7 +950,7 @@
           "_params": {
             "showMeta": true
           },
-          "meta": "investo adalah Platform investasi syariah yang memungkinkan setiap orang untuk ikut berinvestasi mulai dari Rp 100.000,- kepada setiap usaha kecil dan usaha rintisan (Startup). Investasi yang kami berikan senilai Rp. 5.000.000-35.000.000,- untuk setiap Usaha yang telah kami verifikasi dengan rincian, dana yang diperoleh dialokasikan ke selain bahan produksi. <br><br>Berinvestasi di investo turut membangun nilai-nilai ekonomi syariah dengan akad Mudharabah. Selain itu, kebermanfaatan yang diperoleh adalah kini berusaha menjadi wujud untuk menghindarkan dari keraguan tentang riba/ interest rate (bunga). Di investo, selain mendapatkan keuntungan juga menjadi bagian dari penggerak perekonomian Indonesia yang lebih baik.<br><br>investo.id merupakan perusahaan rintisan di bidang Financial Technology (Fin-Tech) dengan model Business to Business (B2B) yang tidak/belum diatur oleh dan/atau dalam pengawasan Otoritas Jasa Keuangan (OJK) di Indonesia. investo dalam memberikan jasanya hanya terbatas pada fungsi administratif. Dana dari investor dan Peminjam akan ditempatkan di rekening investo (escrow account), adalah tidak dan tidak akan dianggap sebagai simpanan seperti diatur dalam peraturan perundang-undangan tentang Perbankan di Indonesia."
+          "meta": "investo adalah Platform investasi syariah yang memungkinkan setiap orang untuk berinvestasi mulai dari Rp. 5.000.000-35.000.000,- kepada usaha kecil dan usaha rintisan (Startup). Berinvestasi di investo turut membangun nilai-nilai ekonomi syariah dengan akad Mudharabah. Selain itu, kebermanfaatan yang diperoleh adalah kini berusaha menjadi wujud untuk menghindarkan dari keraguan tentang interest rate (bunga). Di investo, selain mendapatkan keuntungan juga menjadi bagian dari penggerak perekonomian Indonesia yang lebih baik.<br><br>investo.id merupakan perusahaan rintisan di bidang Financial Technology (Fin-Tech) dengan model Business to Business (B2B) yang tidak/belum diatur oleh dan/atau dalam pengawasan Otoritas Jasa Keuangan (OJK) di Indonesia. investo dalam memberikan jasanya hanya terbatas pada fungsi administratif. Dana dari investor dan Peminjam akan ditempatkan di rekening investo (escrow account), adalah tidak dan tidak akan dianggap sebagai simpanan seperti diatur dalam peraturan perundang-undangan tentang Perbankan di Indonesia."
         },
         {
           "_tags": [
@@ -1299,7 +1268,7 @@
             }
           },
           "title4": "ANDIKA<br>JAKA PERMANA",
-          "caption4": "Chief Legal Officer",
+          "caption4": "Chief Law Officer",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media5": {
             "image": {
@@ -1433,10 +1402,10 @@
               "color": "#2c82c9"
             },
             "P": {
-              "color": "#000000"
+              "color": "#777777"
             },
             "UL": {
-              "color": "#000000"
+              "color": "#777777"
             }
           },
           "_anchor": "contacts1-y",
@@ -1471,7 +1440,7 @@
           },
           "text1": "<font color=\"#2c82c9\"><b>NAVIGASI</b></font><br><a href=\"cara-kerja.html\">Cara Kerja</a><br><a href=\"risiko.html\">Risiko Investasi</a><br><a href=\"bantuan.html\">Bantuan</a><br><a href=\"about.html\">Tentang Kami</a><br><a href=\"#\">Karir</a>",
           "text2": "<strong>HUBUNGI KAMI</strong><br>Jl. Borobudur Gg.6A No.5,<br>Kel. Blimbing,&nbsp;Kec.Blimbing<br>Kota Malang<br>support@investo.id<br>+62 812 366 781 56",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>SUPPORTED BY</strong></p><ul class=\"mbr-contacts__list\"><li>Gerakan 1000 Startup Digital</li><li>BEKUP by BEKRAF</li></ul><p><br></p><p><b>IKUTI KAMI</b> : <a href=\"https://web.facebook.com/investo.syariah/\" target=\"_blank\">investo.syariah</a></p>"
+          "text3": "<p class=\"mbr-contacts__text\"><strong>SUPPORTED BY</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"1000startupdigital.id\" target=\"_blank\">Gerakan 1000 Startup Digital</a></li><li><a href=\"bekup-portal.com\" target=\"_blank\">BEKUP by BEKRAF</a></li></ul>"
         }
       ]
     },
@@ -1668,10 +1637,10 @@
               "color": "#2c82c9"
             },
             "P": {
-              "color": "#000000"
+              "color": "#777777"
             },
             "UL": {
-              "color": "#000000"
+              "color": "#777777"
             }
           },
           "_anchor": "contacts1-13",
@@ -1706,7 +1675,7 @@
           },
           "text1": "<font color=\"#2c82c9\"><b>NAVIGASI</b></font><br><a href=\"cara-kerja.html\">Cara Kerja</a><br><a href=\"risiko.html\">Risiko Investasi</a><br><a href=\"bantuan.html\">Bantuan</a><br><a href=\"about.html\">Tentang Kami</a><br><a href=\"#\">Karir</a>",
           "text2": "<strong>HUBUNGI KAMI</strong><br>Jl. Borobudur Gg.6A No.5,<br>Kel. Blimbing,&nbsp;Kec.Blimbing<br>Kota Malang<br>support@investo.id<br>+62 812 366 781 56",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>SUPPORTED BY</strong></p><ul class=\"mbr-contacts__list\"><li>Gerakan 1000 Startup Digital</li><li>BEKUP by BEKRAF</li></ul><p><br></p><p><b>IKUTI KAMI</b> : <a href=\"https://web.facebook.com/investo.syariah/\" target=\"_blank\">investo.syariah</a></p>"
+          "text3": "<p class=\"mbr-contacts__text\"><strong>SUPPORTED BY</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"1000startupdigital.id\" target=\"_blank\">Gerakan 1000 Startup Digital</a></li><li><a href=\"bekup-portal.com\" target=\"_blank\">BEKUP by BEKRAF</a></li></ul>"
         }
       ]
     },
@@ -2293,10 +2262,10 @@
               "color": "#2c82c9"
             },
             "P": {
-              "color": "#000000"
+              "color": "#777777"
             },
             "UL": {
-              "color": "#000000"
+              "color": "#777777"
             }
           },
           "_anchor": "contacts1-16",
@@ -2331,7 +2300,7 @@
           },
           "text1": "<font color=\"#2c82c9\"><b>NAVIGASI</b></font><br><a href=\"cara-kerja.html\">Cara Kerja</a><br><a href=\"risiko.html\">Risiko Investasi</a><br><a href=\"bantuan.html\">Bantuan</a><br><a href=\"about.html\">Tentang Kami</a><br><a href=\"#\">Karir</a>",
           "text2": "<strong>HUBUNGI KAMI</strong><br>Jl. Borobudur Gg.6A No.5,<br>Kel. Blimbing,&nbsp;Kec.Blimbing<br>Kota Malang<br>support@investo.id<br>+62 812 366 781 56",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>SUPPORTED BY</strong></p><ul class=\"mbr-contacts__list\"><li>Gerakan 1000 Startup Digital</li><li>BEKUP by BEKRAF</li></ul><p><br></p><p><b>IKUTI KAMI</b> : <a href=\"https://web.facebook.com/investo.syariah/\" target=\"_blank\">investo.syariah</a></p>"
+          "text3": "<p class=\"mbr-contacts__text\"><strong>SUPPORTED BY</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"1000startupdigital.id\" target=\"_blank\">Gerakan 1000 Startup Digital</a></li><li><a href=\"bekup-portal.com\" target=\"_blank\">BEKUP by BEKRAF</a></li></ul>"
         }
       ]
     },
@@ -2828,7 +2797,7 @@
           },
           "text1": "<font color=\"#2c82c9\"><b>NAVIGASI</b></font><br><a href=\"cara-kerja.html\">Cara Kerja</a><br><a href=\"risiko.html\">Risiko Investasi</a><br><a href=\"bantuan.html\">Bantuan</a><br><a href=\"about.html\">Tentang Kami</a><br><a href=\"#\">Karir</a>",
           "text2": "<strong>HUBUNGI KAMI</strong><br>Jl. Borobudur Gg.6A No.5,<br>Kel. Blimbing,&nbsp;Kec.Blimbing<br>Kota Malang<br>support@investo.id<br>+62 812 366 781 56",
-          "text3": "<p class=\"mbr-contacts__text\"><strong>SUPPORTED BY</strong></p><ul class=\"mbr-contacts__list\"><li>Gerakan 1000 Startup Digital</li><li>BEKUP by BEKRAF</li></ul><p><br></p><p><b>IKUTI KAMI</b> : <a href=\"https://web.facebook.com/investo.syariah/\" target=\"_blank\">investo.syariah</a></p>"
+          "text3": "<p class=\"mbr-contacts__text\"><strong>SUPPORTED BY</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"1000startupdigital.id\" target=\"_blank\">Gerakan 1000 Startup Digital</a></li><li><a href=\"bekup-portal.com\" target=\"_blank\">BEKUP by BEKRAF</a></li></ul>"
         }
       ]
     }
