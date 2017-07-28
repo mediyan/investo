@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "investo",
-    "currentPage": "tentang-kami.html",
+    "currentPage": "rubrik.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1749,7 +1749,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/albaqarah-619x147.png",
+              "src": "@PROJECT_PATH@/assets/images/albaqarah-1400x326.png",
               "link": "",
               "alt": "",
               "title": "",
